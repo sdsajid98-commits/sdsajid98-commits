@@ -49,8 +49,8 @@ MS Finance graduate (GPA 3.98) with strong quantitative and analytical training 
 ## 📫 Contact
 
 - GitHub: [sdsajid98-commits](https://github.com/sdsajid98-commits)  
-- LinkedIn: [Your LinkedIn URL]  
-- Email: [Your Email]
+- LinkedIn: https://www.linkedin.com/in/siddiqa-sajid-0179bb271/ 
+- Email: sdsajid@live.com
 
 ---
 
