@@ -22,7 +22,7 @@ MS Finance graduate (GPA 3.98) with strong quantitative and analytical training 
 - Power BI dashboards (financial performance & forecasting)
 
 ![Dashboard Overview](https://github.com/sdsajid98-commits/PowerBI/blob/main/powerbi_dashboard.png)
-![Forecasting Charts](PowerBI/powerbi_forecasting.png)
+![Forecasting Charts](https://github.com/sdsajid98-commits/PowerBI/blob/main/powerbi_forecasting.png)
 - Advanced Excel modeling  
 
 **Econometric & Statistical Tools:**  
