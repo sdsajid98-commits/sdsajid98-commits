@@ -19,7 +19,10 @@ MS Finance graduate (GPA 3.98) with strong quantitative and analytical training 
 - Autoregression, exponential smoothing, moving averages, stationarity testing (in R)  
 
 **Visualization & Reporting:**  
-- Power BI dashboards (financial performance & forecasting)  
+- Power BI dashboards (financial performance & forecasting)
+
+![Dashboard Overview](PowerBI/powerbi_dashboard.png)
+![Forecasting Charts](PowerBI/powerbi_forecasting.png)
 - Advanced Excel modeling  
 
 **Econometric & Statistical Tools:**  
