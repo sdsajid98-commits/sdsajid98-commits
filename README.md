@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Siddiqa
 
-MS Finance graduate (GPA 3.98) with strong quantitative and analytical training in financial modeling, econometrics, and applied data analysis. Experienced in building forecasting models, portfolio analysis frameworks, and machine learning-based financial tools through academic and certification projects. Actively seeking entry-level **Financial Analyst**, **Research Analyst**, or **Finance-focused Data** roles.
+MS Finance graduate (GPA 3.98) with strong quantitative and analytical training in financial modeling, econometrics, and applied data analysis. Experienced in building forecasting models, portfolio analysis frameworks, and machine learning-based financial tools through academic and certification projects. 
 
 ---
 
