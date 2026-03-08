@@ -24,7 +24,7 @@ MS Finance graduate (GPA 3.98) with strong quantitative and analytical training 
 ![Forecasting Charts](https://github.com/sdsajid98-commits/PowerBI/blob/main/powerbi_forecasting.png)
 
 - Advanced Excel modeling
-![Call Profit chart](https://github.com/sdsajid98-commits/Excel/blob/main/call.png)
+![Sales Performance Dashboard](Slide1.JPG)
 ![Minimum Variance Portfolio](https://github.com/sdsajid98-commits/Excel/blob/main/min_variance.png)
 ![Protective put strategy](https://github.com/sdsajid98-commits/Excel/blob/main/put_vs_stock.png)
 
