@@ -31,6 +31,9 @@ MS Finance graduate (GPA 3.98) with strong quantitative and analytical training 
 **Econometric & Statistical Tools:**  
 - STATA, EViews, SPSS, SmartPLS  
 
+**Data Engineering**
+- End-to-end data warehouse design following Bronze → Silver → Gold layers for scalable analytics.
+![Medallion Data Warehouse Architecture](docs/data_architecture draw.io.drawio.png)
 ---
 
 ## 📂 Featured Projects
@@ -40,7 +43,7 @@ MS Finance graduate (GPA 3.98) with strong quantitative and analytical training 
 | **Loan Amortization Calculator** | Interactive Python tool to compute loan schedules, balances, and interest payments with charts. | [View Repo](https://github.com/sdsajid98-commits/p14_Loan_amortization.git) |
 | **Portfolio Management Tool** | Build and optimize portfolios, visualize efficient frontier, compute risk-return metrics, and simulate scenarios. | [View Repo](https://github.com/sdsajid98-commits/portfolio_management_tool.git) |
 | **Flexible Data Explorer (EDA Demo)** | Streamlit app for interactive exploration of financial datasets: numeric/categorical analysis, correlations, pairplots, regression stats. Ideal for demonstrating analytical skills. | [View Repo](https://github.com/sdsajid98-commits/Flexible-Data-Explorer.git) |
-
+| **Data Warehouse & Analytics Project** | End-to-end SQL Server data warehouse using Medallion Architecture (Bronze–Silver–Gold). Built ETL pipelines, star schema model, and business-ready analytics layer for CRM/ERP data. | [View Repo](https://github.com/sdsajid98-commits/sql_data_warehouse_project) |
 ---
 
 ## 🎓 Education & Certifications
