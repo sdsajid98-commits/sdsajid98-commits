@@ -35,6 +35,7 @@ MS Finance graduate (GPA 3.98) with strong quantitative and analytical training 
 **Data Engineering**
 - End-to-end data warehouse design following Bronze → Silver → Gold layers for scalable analytics.
 ![Medallion Data Warehouse Architecture](https://github.com/sdsajid98-commits/sql_data_warehouse_project/blob/main/Docs/data%20architecure%20draw.io.drawio.png)
+![Data Integration Diagram](https://github.com/sdsajid98-commits/sql_data_warehouse_project/blob/main/Docs/data%20integration.drawio.png)
 ---
 
 ## 📂 Featured Projects
