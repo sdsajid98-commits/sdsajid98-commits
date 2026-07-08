@@ -21,7 +21,6 @@ MS Finance graduate (GPA 3.98) with strong quantitative and analytical training 
 **Visualization & Reporting:**  
 - Power BI dashboards (financial performance & forecasting)
 ![Dashboard Overview](https://github.com/sdsajid98-commits/PowerBI/blob/main/powerbi_dashboard.png)
-![Forecasting Charts](https://github.com/sdsajid98-commits/PowerBI/blob/main/powerbi_forecasting.png)
 ![Sales Performance Overview](https://github.com/sdsajid98-commits/adventureworks_sales_analysis_dashboard/blob/main/dashboard_4.jpg)
 ![Dashboard Overview](https://github.com/sdsajid98-commits/customer_churn_analysis_powerBi_Dashboard/blob/main/Dashboards/1-overview.jpg)
 
